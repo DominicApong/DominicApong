@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DominicApong
-- 👀 I’m interested in hardware/Embedded systems. 
-- 🌱 I’m currently learning product development
-- 💞️ I’m looking to collaborate on hardware/IoT development
+- 👀 Embedded/hardware and IoT systems. 
+- 🌱 I’m currently adding DevOps to my portfolio
 - 📫 Reach out through the email dominicapong4@gmail.com
 
 <!---
