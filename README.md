@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @DominicApong
-- 👀 Embedded/hardware and IoT systems. 
-- 🌱 I’m currently adding DevOps to my portfolio
+- 👨‍💻 Embedded/hardware and IoT systems.
+- ⌚️ Product designer
+- 📱 Embedded UI expert, specialized in colored display
+- 🌱 Beginner level in DevOps
 - 📫 Reach out through the email dominicapong4@gmail.com
 
 <!---
